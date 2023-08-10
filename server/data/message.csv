@@ -1,6 +1,2 @@
-receiver_id,sender_id,message,time,message_id,message_type
-9,11,123,1676112725,161,1
-9,11,v,1676125855,162,1
-10,11,a,1689158119,175,1
-525,-10001,s (uid: 11) 通过了你的好友申请.,1691646150,237,1
-525,11,系统：我们已成为好友，快来打个招呼吧！,1691646150,239,1
+receiver_id,sender_id,message,time,message_id,message_type
+
