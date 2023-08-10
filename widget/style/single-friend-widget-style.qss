@@ -1,0 +1,10 @@
+QLabel#name-label {
+    font-family: 'Microsoft YaHei';
+    font-size: 30px;
+    background-color: #FFDDAA;
+    border-radius: 5px;
+}
+QLabel#name-label-2 {
+    font-family: 'Microsoft YaHei';
+    font-size: 20px;
+}

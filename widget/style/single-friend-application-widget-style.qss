@@ -1,0 +1,49 @@
+QLabel#message-label {
+    font-family: 'Microsoft YaHei';
+    font-size: 20px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+QPushButton#refuse-button {
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Microsoft YaHei';
+    color: #FF3045;
+    background-color: #DDDDDD;
+}
+QPushButton#refuse-button:hover {
+    font-size: 21px;
+    border-radius: 10px;
+    color: #FF3045;
+    background-color: #DDDDDD;
+    font-family: 'Microsoft YaHei';
+}
+QPushButton#refuse-button:pressed {
+    font-size: 22px;
+    border-radius: 10px;
+    color: #FF3045;
+    background-color: #DDDDDD;
+    font-family: 'Microsoft YaHei';
+}
+
+QPushButton#accept-button {
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Microsoft YaHei';
+    background-color: #07c160;
+    color: #FFFFFF;
+}
+QPushButton#accept-button:hover {
+    font-size: 21px;
+    border-radius: 10px;
+    background-color: #07c160;
+    color: #FFFFFF;
+    font-family: 'Microsoft YaHei';
+}
+QPushButton#accept-button:pressed {
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #07c160;
+    color: #FFFFFF;
+    font-family: 'Microsoft YaHei';
+}

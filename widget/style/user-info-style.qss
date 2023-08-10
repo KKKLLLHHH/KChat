@@ -1,0 +1,63 @@
+QLabel#name-label {
+    font-family: 'Consolas';
+    font-size: 60px;
+    background-color: #FFDDAA;
+    border-radius: 10px;
+}
+QLabel#name-label-2 {
+    font-family: 'Microsoft YaHei';
+    font-size: 20px;
+}
+QWidget#user-info-main-widget {
+    background-color: #EEEEEE;
+    border-radius: 25px;
+}
+QLabel#id-label {
+    font-family: 'Microsoft YaHei';
+    font-size: 20px;
+    color: #AAAAAA;
+}
+
+QPushButton#close-button {
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Microsoft YaHei';
+    color: #FF3045;
+    background-color: #DDDDDD;
+}
+QPushButton#close-button:hover {
+    font-size: 21px;
+    border-radius: 10px;
+    color: #FF3045;
+    background-color: #DDDDDD;
+    font-family: 'Microsoft YaHei';
+}
+QPushButton#close-button:pressed {
+    font-size: 22px;
+    border-radius: 10px;
+    color: #FF3045;
+    background-color: #DDDDDD;
+    font-family: 'Microsoft YaHei';
+}
+
+QPushButton#action-button {
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Microsoft YaHei';
+    background-color: #07c160;
+    color: #FFFFFF;
+}
+QPushButton#action-button:hover {
+    font-size: 21px;
+    border-radius: 10px;
+    background-color: #07c160;
+    color: #FFFFFF;
+    font-family: 'Microsoft YaHei';
+}
+QPushButton#action-button:pressed {
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #07c160;
+    color: #FFFFFF;
+    font-family: 'Microsoft YaHei';
+}

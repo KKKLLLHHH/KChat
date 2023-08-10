@@ -1,0 +1,35 @@
+QWidget#main-main-widget {
+/*    background-color: rgba(255, 255, 255, 0.9);*/
+    background-color: #E9E9E9;
+    border-radius: 25px;
+}
+QWidget#main-tool-widget {
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+QLineEdit#main-search-edit {
+/*    border-color: rgba(0, 0, 0, 0);*/
+    border-color: #E9E9E9;
+    border-radius: 5px;
+    font-family: 'Microsoft YaHei';
+    font-size: 12.5px;
+}
+QPushButton#main-add-button {
+    background-color: #FFFFFF;
+    border-radius: 2.5px;
+}
+QPushButton#main-add-button:hover {
+    background-color: #FCFCFC;
+    border-radius: 2.5px;
+}
+QPushButton#main-add-button:pressed {
+    background-color: #F9F9F9;
+    border-radius: 2.5px;
+}
+QListWidget#main-info-list-widget {
+    border: none;
+/*    background-color: rgba(0, 0, 0, 0);*/
+    background-color: #E9E9E9;
+}

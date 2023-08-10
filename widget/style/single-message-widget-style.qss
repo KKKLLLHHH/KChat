@@ -1,0 +1,18 @@
+QLabel#name-label {
+    font-family: 'Consolas';
+    font-size: 40px;
+    background-color: #FFDDAA;
+    border-radius: 5px;
+}
+QLabel#self-message-label {
+    font-family: 'Microsoft YaHei';
+    font-size: 20px;
+    background-color: #FFAF20;
+    border-radius: 5px;
+}
+QLabel#other-message-label {
+    font-family: 'Microsoft YaHei';
+    font-size: 20px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}

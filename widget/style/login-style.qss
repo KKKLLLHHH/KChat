@@ -1,0 +1,64 @@
+QWidget#login-background-widget {
+    border-image: url('./image/login_background_image-2.jpg');
+    border-radius: 15px;
+}
+QWidget#login-board-widget {
+    background-color: #FFFFFF;
+    border-radius: 30px;
+}
+QLabel#login-login-text-label, #login-register-text-label {
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Microsoft YaHei';
+}
+QLineEdit#login-login-user-name-edit, #login-login-password-edit, #login-register-user-name-edit, #login-register-password-edit, #login-register-password-again-edit{
+    font-size: 15px;
+    font-family: 'Microsoft YaHei';
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    border-bottom: 2px solid rgba(100, 100, 100, 255);
+}
+QPushButton#login-login-button, #login-register-button, #login-submit-button, #login-back-button {
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Microsoft YaHei';
+    background-color: #DDFFFF;
+    font-weight: bold;
+}
+QPushButton#login-login-button:hover, #login-register-button:hover, #login-submit-button:hover, #login-back-button:hover {
+    font-size: 21px;
+    border-radius: 10px;
+    background-color: #BBFFFF;
+    font-family: 'Microsoft YaHei';
+    font-weight: bold;
+}
+QPushButton#login-login-button:pressed, #login-register-button:pressed, #login-submit-button:pressed, #login-back-button:pressed {
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #99FFFF;
+    font-family: 'Microsoft YaHei';
+    font-weight: bold;
+}
+QPushButton#login-close-button {
+    border-radius: 0px;
+    border-top-left-radius: 15px;
+    font-family: 'Consolas';
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0);
+}
+QPushButton#login-close-button:hover {
+    border-radius: 0px;
+    border-top-left-radius: 15px;
+    font-family: 'Consolas';
+    font-size: 20px;
+    background-color: rgba(255, 100, 100, 0.9);
+}
+QPushButton#login-close-button:pressed {
+    border-radius: 0px;
+    border-top-left-radius: 15px;
+    font-family: 'Consolas';
+    font-size: 20px;
+    background-color: rgba(255, 150, 150, 0.9);
+}

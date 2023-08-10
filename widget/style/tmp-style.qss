@@ -1,0 +1,30 @@
+QWidget#background-widget {
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+QLabel#friend-name-label {
+    font-family: "Microsoft YaHei";
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+}
+QFrame#frame-line {
+    color: #CCCCCC;
+}
+QListWidget#message-list-widget {
+    border: none;
+}
+QPlainTextEdit#message-edit {
+    border: none;
+    font-family: "Microsoft YaHei";
+    font-size: 15px;
+}
+QPushButton#send-button {
+    border-radius: 3px;
+    background-color: #E9E9E9;
+    font-family: "Microsoft YaHei";
+    font-size: 15px;
+    color: #FF8F00;
+}
