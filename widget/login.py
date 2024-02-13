@@ -48,7 +48,8 @@ class LoginWindow(BaseWindow):
         """
 
         self.close_button = QPushButton(self)
-        self.close_button.setText('X')
+        self.close_button.setText('×')
+        self.close_button.setStyleSheet('color:white;')
         self.close_button.setFixedSize(30, 30)
         self.close_button.clicked.connect(self.close)
         self.close_button.setObjectName('login-close-button')
